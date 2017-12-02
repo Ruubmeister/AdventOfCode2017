@@ -1,0 +1,6 @@
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDayOne\AdventOfCodeDayOne\bin\Debug\AdventOfCodeDayOne.exe.config
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDayOne\AdventOfCodeDayOne\bin\Debug\AdventOfCodeDayOne.exe
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDayOne\AdventOfCodeDayOne\bin\Debug\AdventOfCodeDayOne.pdb
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDayOne\AdventOfCodeDayOne\obj\Debug\AdventOfCodeDayOne.csprojResolveAssemblyReference.cache
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDayOne\AdventOfCodeDayOne\obj\Debug\AdventOfCodeDayOne.exe
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDayOne\AdventOfCodeDayOne\obj\Debug\AdventOfCodeDayOne.pdb
