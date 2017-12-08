@@ -1,0 +1,14 @@
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\bin\Debug\AdventOfCodeDay2pt2.exe.config
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\bin\Debug\AdventOfCodeDay2pt2.exe
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\bin\Debug\AdventOfCodeDay2pt2.pdb
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2.csprojResolveAssemblyReference.cache
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\MainWindow.g.cs
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\App.g.cs
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2_MarkupCompile.cache
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2_MarkupCompile.lref
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\MainWindow.baml
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2.g.resources
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2.Properties.Resources.resources
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2.csproj.GenerateResource.Cache
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2.exe
+C:\VS projects\Github\Advent of Code 2017\AdventOfCodeDay2pt2\AdventOfCodeDay2pt2\obj\Debug\AdventOfCodeDay2pt2.pdb
